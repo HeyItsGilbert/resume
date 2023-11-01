@@ -3,7 +3,8 @@
   "type": "module",
   "scripts": {
     "init": "resumed init",
-    "start": "resumed --theme jsonresume-theme-elegant && cp resume.html public/index.html"
+    "start": "resumed --theme jsonresume-theme-elegant",
+    "build": "resumed --theme jsonresume-theme-elegant && cp resume.html public/index.html"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
