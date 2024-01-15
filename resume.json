@@ -157,6 +157,11 @@
   "awards": [],
   "certificates": [
     {
+      "name": "Into to Splunk (eLearning)"
+      "issues": "Splunk",
+      "date": "2024-01-15"
+    },
+    {
       "name": "Searching and Reporting with Splunk 6",
       "issuer": "Splunk",
       "date": "2014-06-30"
