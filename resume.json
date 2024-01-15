@@ -157,8 +157,8 @@
   "awards": [],
   "certificates": [
     {
-      "name": "Into to Splunk (eLearning)"
-      "issues": "Splunk",
+      "name": "Into to Splunk (eLearning)",
+      "issuer": "Splunk",
       "date": "2024-01-15"
     },
     {
