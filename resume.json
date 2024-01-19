@@ -157,6 +157,11 @@
   "awards": [],
   "certificates": [
     {
+      "name": "Using Fields (eLearning)",
+      "issuer": "Splunk",
+      "date": "2024-01-19"
+    },
+    {
       "name": "Into to Splunk (eLearning)",
       "issuer": "Splunk",
       "date": "2024-01-15"
