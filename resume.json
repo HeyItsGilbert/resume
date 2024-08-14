@@ -33,9 +33,18 @@
   },
   "work": [
     {
+      "name": "Tesla",
+      "position": "Staff Software Development Engineer",
+      "startDate": "2024-01-22",
+      "summary": "Spearheaded initiatives to enhance the overall health and reliability of the Windows environment while ensuring optimal performance.",
+      "url": "https://www.linkedin.com/company/tesla-motors/",
+      "location": "Fremont, California, United States"
+    },
+    {
       "name": "Meta",
       "position": "Client Platform Engineer",
       "startDate": "2021-11-30",
+      "endDate": "2024-01-05",
       "summary": "Spearheaded initiatives to enhance the overall health and reliability of the Windows fleet encompassing desktops, laptops, and VDI, aligning with board requirements while ensuring optimal performance.",
       "highlights": [
         "Pioneered the advocacy and leadership in promoting PowerShell best practices, driving efforts to elevate code quality company-wide.",
