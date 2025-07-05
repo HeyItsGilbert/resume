@@ -9,6 +9,6 @@
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-even": "^0.17.0",
-    "resumed": "^3.0.0"
+    "resumed": "^3.0.1"
   }
 }
