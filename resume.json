@@ -67,7 +67,8 @@
         "Made notable contributions to open source configuration management tools, enhancing the collective knowledge base and industry-wide best practices."
       ],
       "url": "https://www.linkedin.com/company/10667",
-      "location": "Fremont, California, United States"
+      "location": "Fremont, California, United States",
+      "description": "Social Media Company"
     },
     {
       "name": "Meta",
@@ -83,7 +84,8 @@
         "Efficiently replaced WSUS within a week following its failure, ensuring the new solution's high availability and global scalability."
       ],
       "url": "https://www.linkedin.com/company/10667",
-      "location": "Menlo Park, California, United States"
+      "location": "Menlo Park, California, United States",
+      "description": "Social Media Company"
     },
     {
       "name": "Milestone (Meta Vendor)",
@@ -99,7 +101,8 @@
         "Enhanced tooling for various critical services, including Active Directory, MS Certificate Authority, email migration, and VMWare deployment, improving overall operational efficiency and reliability."
       ],
       "url": "https://www.linkedin.com/company/10667",
-      "location": "Menlo Park, California, United States"
+      "location": "Menlo Park, California, United States",
+      "description": "Social Media Company"
     },
     {
       "name": "Achieve Learning and Resource Center",
@@ -113,7 +116,8 @@
         "Designed a tailored backend system for tutors to facilitate communication with the Regional Manager and maintain detailed student records."
       ],
       "url": "http://achievelearning.org/",
-      "location": "Oakland, California, United States"
+      "location": "Oakland, California, United States",
+      "description": "Non-profit"
     },
     {
       "name": "Sanchez Electric, Inc.",
@@ -128,7 +132,8 @@
         "Provided expert consultation on all IT-related matters, offering valuable insights to support technological needs."
       ],
       "url": "https://www.sanchezelectric.net/",
-      "location": "San Jose, California, United States"
+      "location": "San Jose, California, United States",
+      "description": "Electrical Contractor"
     },
     {
       "name": "Fry's Electronics",
@@ -144,7 +149,8 @@
         "Maintained critical T1, T3, SIP, DSL, and DIA connections between the office and stores, guaranteeing seamless data exchange and business operations."
       ],
       "url": "https://www.linkedin.com/company/11111",
-      "location": "San Jose, California, United States"
+      "location": "San Jose, California, United States",
+      "description": "Retail Electronics"
     },
     {
       "name": "Fry's Electronics",
@@ -158,7 +164,8 @@
         "Operated and resolved issues within a dynamic production environment, contributing to uninterrupted business operations."
       ],
       "url": "https://www.linkedin.com/company/11111",
-      "location": "San Jose, California, United States"
+      "location": "San Jose, California, United States",
+      "description": "Retail Electronics"
     },
     {
       "name": "Fry's Electronics",
@@ -170,12 +177,33 @@
         "Handled customer calls from across the country, offering expert support and guidance across a spectrum of technical proficiencies."
       ],
       "url": "https://www.linkedin.com/company/11111",
-      "location": "San Jose, California, United States"
+      "location": "San Jose, California, United States",
+      "description": "Retail Electronics"
     }
   ],
-  "volunteer": [],
-  "education": [],
-  "awards": [],
+  "projects": [
+    {
+      "name": "psake Organization",
+      "description": "A build automation tool for PowerShell.",
+      "startDate": "2025-10-01",
+      "entity": "psake",
+      "roles": [
+        "Developer",
+        "Maintainer"
+      ],
+      "url": "https://github.com/psake",
+      "keywords": [
+        "PowerShell",
+        "Build Automation",
+        "Continuous Integration"
+      ],
+      "type": "Open Source",
+      "highlights": [
+        "Implemented a documentation site (https://psake.dev) using Docusaurus and PowerShell.",
+        "Leverage free services offered to FOSS (Free and Open Source Software) projects such as Netlify, 1Password, and OpenCollective."
+      ]
+    }
+  ],
   "certificates": [
     {
       "name": "Using Fields (eLearning)",
@@ -193,7 +221,50 @@
       "date": "2014-06-30"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Unwrapping Chocolatey: GitHub Actions",
+      "publisher": "Chocolatey",
+      "releaseDate": "2025-06-30",
+      "url": "https://www.youtube.com/watch?v=rr8uvIBtFGk",
+      "summary": "Stephen Valdinger and Gilbert Sanchez discuss integrating GitHub Actions with Chocolatey for CI/CD workflows. They cover workflows, actions, runners, and demonstrate automating Chocolatey package creation via GitHub Issues. The session also highlights the benefits of Chocolatey for Business (C4B) and explores automation possibilities."
+    },
+    {
+      "name": "The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez",
+      "publisher": "PowerShell Podcast",
+      "releaseDate": "2025-06-23",
+      "url": "https://www.podbean.com/ew/pb-q6j6g-18e0693",
+      "summary": "In this episode of the PowerShell Podcast, Andrew Pla, Steven Judd and Gilbert Sanchez discuss best practices and common pitfalls in PowerShell. Topics include documentation, testing, community involvement, personal growth, and advanced logging tips from experienced professionals."
+    },
+    {
+      "name": "Holiday Special with Gilbert Sanchez: PSScriptAnalyzer, AST, and PowerShell Gifts",
+      "publisher": "PowerShell Podcast",
+      "releaseDate": "2024-12-23",
+      "url": "https://www.podbean.com/ew/pb-4fjcn-177a8f8",
+      "summary": "In this special holiday episode of the PowerShell Podcast, Gilbert Sanchez demonstrates how to use PSScriptAnalyzer and the Abstract Syntax Tree (AST) to analyze and improve PowerShell code. The episode features a live demo and introduces several useful PowerShell modules as holiday gifts for listeners."
+    },
+    {
+      "name": "From Console to GitOps: Gilbert Sanchez Breaks It Down",
+      "publisher": "PowerShell Podcast",
+      "releaseDate": "2023-10-09",
+      "url": "https://www.podbean.com/ew/pb-9mtj5-14c2f8f",
+      "summary": "In this episode, Gilbert Sanchez joins The PowerShell Podcast to discuss cross-platform terminal setups, clarify the pronunciation of 'mdgrs,' and explain the differences between consoles and terminals. The conversation also explores the fundamentals and benefits of GitOps, with Gilbert sharing insights in his signature engaging and humorous style."
+    },
+    {
+      "name": "Template Podcast Title with Gilbert Sanchez",
+      "publisher": "PowerShell Podcast",
+      "releaseDate": "2022-06-06",
+      "url": "https://www.podbean.com/ew/pb-dr3uu-1242f4c",
+      "summary": "In this episode, we discuss the value of templating and how Stucco can enhance module development for both organizations and personal projects. Gilbert shares his experience using Stucco on a dice rolling module, and the conversation explores Tabletop RPG games. The episode also highlights the importance of PowerShell meetups, with Gilbert initiating efforts for a Bay Area meetup."
+    },
+    {
+      "name": "Maintenance Mode: Leveraging Chef to Schedule Patching, Reboot, etc. - Chocolatey Fest 2018",
+      "publisher": "Chocolatey",
+      "releaseDate": "2018-10-08",
+      "url": "https://www.youtube.com/watch?v=azP3I5tm3ho",
+      "summary": "A presentation on using Chef for maintenance tasks and how to implement something similar. This talk was a great introduction to the world of DevOps and automation, showcasing how Chef can be utilized for scheduling patching, reboots, and other maintenance tasks effectively."
+    }
+  ],
   "skills": [
     {
       "name": "DevOps",
@@ -297,15 +368,18 @@
   ],
   "interests": [
     {
-      "name": "Fishing",
+      "name": "Time in Nature",
       "keywords": [
+        "Backpacking",
         "Bass Fishing",
         "Outdoors"
       ]
     },
     {
-      "name": "Home Automation",
+      "name": "Home Lab",
       "keywords": [
+        "Virtualization",
+        "Automation",
         "MQTT",
         "IOT",
         "Security"
@@ -330,72 +404,7 @@
       "reference": "This dude to be frank is a bad ass at anything he touches computer wise. Would love to work with this guy soon."
     }
   ],
-  "projects": [
-    {
-      "name": "Unwrapping Chocolatey: GitHub Actions",
-      "description": "A stream to Chocolatey customers on how to use Github Actions.",
-      "url": "https://www.youtube.com/watch?v=rr8uvIBtFGk",
-      "roles": [
-        "Speaker"
-      ],
-      "entity": "Chocolatey",
-      "type": "Livestream",
-      "startDate": "2025-06-30",
-      "endDate": "2025-06-30"
-    },
-    {
-      "name": "The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez",
-      "url": "https://www.podbean.com/ew/pb-q6j6g-18e0693",
-      "description": "A discussion on best practices and common pitfalls in PowerShell.",
-      "roles": [
-        "Speaker"
-      ],
-      "highlights": [
-        "Discussed best practices for PowerShell scripting.",
-        "Explain the value of learning from others in the community.",
-        "How building community, blogging, and mentoring can build your career."
-      ],
-      "entity": "PowerShell Podcast",
-      "type": "Podcast",
-      "startDate": "2025-06-23",
-      "endDate": "2025-06-23"
-    },
-    {
-      "name": "Holiday Special with Gilbert Sanchez: PSScriptAnalyzer, AST, and PowerShell Gifts",
-      "url": "https://www.podbean.com/ew/pb-4fjcn-177a8f8",
-      "description": "A holiday special episode discussing PSScriptAnalyzer, AST, and PowerShell gifts.",
-      "roles": [
-        "Speaker"
-      ],
-      "startDate": "2024-12-23",
-      "endDate": "2024-12-23"
-    },
-    {
-      "name": "From Console to GitOps: Gilbert Sanchez Breaks It Down",
-      "url": "https://powershellpodcast.podbean.com/e/from-console-to-gitops-gilbert-sanchez-breaks-it-down/",
-      "startDate": "2023-10-09",
-      "endDate": "2023-10-09",
-      "entity": "PowerShell Podcast",
-      "type": "Podcast",
-      "description": "A return as a guest on the PowerShell Podcast."
-    },
-    {
-      "name": "Template Podcast Title with Gilbert Sanchez",
-      "url": "https://powershellpodcast.podbean.com/e/template-podcast-title-with-gilbert-sanchez/",
-      "startDate": "2022-06-06",
-      "endDate": "2022-06-06",
-      "type": "Podcast",
-      "entity": "PowerShell Podcast",
-      "description": "Guest on the PowerShell Podcast to talk about PowerShell module templating."
-    },
-    {
-      "name": "Maintenance Mode: Leveraging Chef to Schedule Patching, Reboot, etc. - Chocolatey Fest 2018",
-      "type": "talk",
-      "url": "https://www.youtube.com/watch?v=azP3I5tm3ho",
-      "startDate": "2018-10-08",
-      "endDate": "2018-10-08",
-      "entity": "Chocolatey",
-      "description": "Speaker at the first conference for Chocolatey package management."
-    }
-  ]
+  "volunteer": [],
+  "education": [],
+  "awards": []
 }
