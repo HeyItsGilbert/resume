@@ -228,6 +228,7 @@
       "releaseDate": "2025-08-06",
       "url": "https://www.youtube.com/watch?v=QthHmkpH2Y4",
       "summary": "Gilbert Sanchez and Jake Hildreth go over how easy it is deploy a new module using PSStucco."
+    },
     {
       "name": "Unwrapping Chocolatey: GitHub Actions",
       "publisher": "Chocolatey",
