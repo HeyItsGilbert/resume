@@ -183,9 +183,29 @@
   ],
   "projects": [
     {
+      "name": "PSInclusive Organization",
+      "description": "Because PowerShell is for everyone — and we're here to make sure that's true in practice, not just in theory.",
+      "startDate": "2025-08-01",
+      "entity": "psinclusive",
+      "roles": [
+        "Developer",
+        "Maintainer"
+      ],
+      "url": "https://github.com/PSInclusive",
+      "keywords": [
+        "PowerShell",
+        "DEI",
+        "Accessibility"
+      ],
+      "type": "Open Source",
+      "highlights": [
+        "Created accessibility module to help user users with visual impairments be able to improve their PowerShell experience."
+      ]
+    },
+    {
       "name": "psake Organization",
       "description": "A build automation tool for PowerShell.",
-      "startDate": "2025-10-01",
+      "startDate": "2024-10-01",
       "entity": "psake",
       "roles": [
         "Developer",
@@ -224,7 +244,7 @@
   "publications": [
     {
       "name": "Creating a PowerShell Module in Minutes with PSStucco",
-      "published": "PowerShell Podcast",
+      "publisher": "PowerShell Podcast",
       "releaseDate": "2025-08-06",
       "url": "https://www.youtube.com/watch?v=QthHmkpH2Y4",
       "summary": "Gilbert Sanchez and Jake Hildreth go over how easy it is deploy a new module using PSStucco."
