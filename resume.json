@@ -199,7 +199,8 @@
       ],
       "type": "Open Source",
       "highlights": [
-        "Created accessibility module to help user users with visual impairments be able to improve their PowerShell experience."
+        "Created accessibility module to help user users with visual impairments be able to improve their PowerShell experience.",
+        "Develop a VSCode extension that renders Localization text in-line in a user-friendly way for PowerShell modules to encourage Localization."
       ]
     },
     {
@@ -221,6 +222,29 @@
       "highlights": [
         "Implemented a documentation site (https://psake.dev) using Docusaurus and PowerShell.",
         "Leverage free services offered to FOSS (Free and Open Source Software) projects such as Netlify, 1Password, and OpenCollective."
+      ]
+    },
+    {
+      "name": "Vale Agentic Style Package",
+      "description": "A Vale style package for ensuring consistent and clear writing in AI agent documentation and communication.",
+      "startDate": "2024-01-01",
+      "entity": "HeyItsGilbert",
+      "roles": [
+        "Developer",
+        "Maintainer"
+      ],
+      "url": "https://github.com/HeyItsGilbert/vale-agentic",
+      "keywords": [
+        "Vale",
+        "Documentation",
+        "Writing Style",
+        "AI Agents",
+        "Linting"
+      ],
+      "type": "Open Source",
+      "highlights": [
+        "Created a comprehensive Vale style package to improve consistency in AI agent documentation and communication.",
+        "Developed custom rules and guidelines for clear, accessible technical writing."
       ]
     }
   ],
@@ -247,7 +271,7 @@
       "publisher": "PowerShell Podcast",
       "releaseDate": "2025-08-06",
       "url": "https://www.youtube.com/watch?v=QthHmkpH2Y4",
-      "summary": "Gilbert Sanchez and Jake Hildreth go over how easy it is deploy a new module using PSStucco."
+      "summary": "Gilbert Sanchez and Jake Hildreth are experienced professionals skilled in leveraging automation tools to streamline development workflows. They are proficient in creating PowerShell modules using templating and scaffolding for rapid project initiation and adherence to best practices. They are adept at implementing CI/CD pipelines (GitHub Actions) for automated testing and publishing, ensuring high-quality software delivery."
     },
     {
       "name": "Unwrapping Chocolatey: GitHub Actions",
@@ -431,7 +455,20 @@
       "reference": "This dude to be frank is a bad ass at anything he touches computer wise. Would love to work with this guy soon."
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "PSInclusive",
+      "position": "Developer, Maintainer",
+      "url": "https://github.com/PSInclusive",
+      "summary": "Contributed to the PSInclusive organization, focusing on making PowerShell accessible for everyone. Developed an accessibility module for visually impaired users and a VSCode extension for in-line localization text rendering."
+    },
+    {
+      "organization": "psake",
+      "position": "Developer, Maintainer",
+      "url": "https://github.com/psake",
+      "summary": "Contributed to the psake organization, a build automation tool for PowerShell. Implemented a documentation site using Docusaurus and PowerShell, and leveraged free services for FOSS projects."
+    }
+  ],
   "education": [],
   "awards": []
 }
