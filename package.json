@@ -3,12 +3,11 @@
   "type": "module",
   "scripts": {
     "init": "resumed init",
-    "start": "resumed --theme jsonresume-theme-elegant",
-    "build": "resumed --theme jsonresume-theme-elegant && cp resume.html public/index.html"
+    "start": "resumed render resume.json --theme jsonresume-theme-react",
+    "build": "resumed render resume.json --theme jsonresume-theme-react && cp resume.html public/index.html"
   },
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-even": "^0.17.0",
+    "jsonresume-theme-react": "1.0.4",
     "resumed": "^3.0.1"
   }
 }
