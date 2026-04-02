@@ -7,11 +7,11 @@
   },
   "basics": {
     "name": "Gilbert Sanchez",
-    "label": "Señor Systems Engineer",
+    "label": "Staff Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/615265?v=4",
     "email": "me@gilbertsanchez.com",
     "url": "https://gilbertsanchez.com",
-    "summary": "Versatile systems engineer and team leader with deep expertise in DevOps, automation, and operational excellence. Proven track record of driving large-scale IT and production system improvements, fostering high-performing teams, and championing transparency and continuous learning. Passionate about optimizing developer and user experiences through scalable solutions and a positive, collaborative culture.",
+    "summary": "Staff Software Engineer with deep expertise in Windows platform engineering, PowerShell tooling, and developer experience. Proven track record of shipping CLI tooling, automation pipelines, and AI-augmented workflows across large enterprises—including hands-on work with LLM integration and RAG systems. Passionate about making developer tools fast, reliable, and delightful to adopt, with an active open source presence in the PowerShell ecosystem.",
     "location": {
       "region": "California",
       "postalCode": "95111",
@@ -41,10 +41,12 @@
       "name": "Tesla",
       "position": "Staff Software Development Engineer",
       "startDate": "2024-01-22",
-      "summary": "Led the Automation team to drive DevOps adoption, focusing on automating, scaling, and optimizing the Windows environment for reliability and performance.",
+      "summary": "Led the Automation team in advancing Windows developer experience and DevOps adoption—shipping PowerShell tooling, AI-augmented workflows, and self-service solutions for enterprise-scale deployment.",
       "url": "https://www.linkedin.com/company/tesla-motors/",
       "location": "Fremont, California, United States",
       "highlights": [
+        "Developed a Windows-specific, self-service installation script for Claude Code—automating enterprise configuration and user environment variable management—shipped beyond normal team scope to accelerate AI tooling adoption company-wide.",
+        "Engineered a GitHub Actions-based RAG pipeline to automate documentation generation and retrieval, processing thousands of documents for the team and scaling adoption to dozens of teams across the organization.",
         "Led the Automation team in advancing DevOps practices across the organization, emphasizing automation, scalability, and operational efficiency.",
         "Architected and implemented a comprehensive PowerShell module template, significantly improving development workflows and code quality.",
         "Developed and maintained a robust build pipeline for PowerShell modules to ensure consistent quality and reliability in deployments.",
@@ -220,6 +222,8 @@
       ],
       "type": "Open Source",
       "highlights": [
+        "Created a skills marketplace repository enabling composable, reusable psake build skills for the community.",
+        "Implemented llms.txt support on psake.dev to improve AI/LLM discoverability and integration.",
         "Implemented a documentation site (https://psake.dev) using Docusaurus and PowerShell.",
         "Leverage free services offered to FOSS (Free and Open Source Software) projects such as Netlify, 1Password, and OpenCollective."
       ]
@@ -318,6 +322,18 @@
   ],
   "skills": [
     {
+      "name": "AI/LLM Tooling",
+      "level": "Proficient",
+      "keywords": [
+        "Claude Code",
+        "RAG Pipelines",
+        "LLM Integration",
+        "Automated Documentation",
+        "AI Developer Tools",
+        "GitHub Actions"
+      ]
+    },
+    {
       "name": "DevOps",
       "level": "Expert",
       "keywords": [
@@ -388,6 +404,7 @@
       "level": "Expert",
       "keywords": [
         "PowerShell",
+        "TypeScript",
         "Ruby",
         "Python",
         "Golang",
